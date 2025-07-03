@@ -46,14 +46,17 @@ Java project implementing a Trie (prefix tree) to provide fast autocomplete sugg
 
 ## Tech Stack
 
-*Java 8+
-*Core Java Collections (Map, List, etc.)
-*File I/O (BufferedReader, FileReader)
+-Java 8+
+
+-Core Java Collections (Map, List, etc.)
+
+-File I/O (BufferedReader, FileReader)
 
 ---
 
 ## Author
   -Harini Emmadi
+  
   -harini14738@gmail.com
   
 
