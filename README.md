@@ -1,4 +1,4 @@
-🎬 MovieSearchTrie — Java Trie-Based Autocomplete Engine
+## 🎬 MovieSearchTrie — Java Trie-Based Autocomplete Engine
 
 Java project implementing a Trie (prefix tree) to provide fast autocomplete suggestions for movie titles, with frequency-based ranking, delete support, and performance metrics.
 
